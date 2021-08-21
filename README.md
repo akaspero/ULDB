@@ -1,8 +1,8 @@
-Author: Andrzej Kasperowicz
+Ultra Light DataBase
 
-
-Ultra Light Data Base
 One-file, easy to use local database.
+
+Author: Andrzej Kasperowicz
 
 
 How to use:
